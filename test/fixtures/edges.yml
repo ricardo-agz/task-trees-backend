@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  step: one
+  goal: one
+  similarity: 1.5
+
+two:
+  step: two
+  goal: two
+  similarity: 1.5
